@@ -22,7 +22,7 @@ b. System programming
 -> YES: however it has capabilities to do it
 
 c. Mobile application development
--> NOOOO: Definitely no 
+-> Noo please: Definitely no 
 -> COMMENT: From Swift for IOS, to Kotlin / Java for android going through all cross platform framework like flutter and react native, go would be one of the last choice for such use case
 
 d. Data analysis
